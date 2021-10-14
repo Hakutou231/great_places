@@ -1,6 +1,6 @@
 import UIKit
 import Flutter
-#import "GoogleMaps/GoogleMaps.h"
+import GoogleMaps
 
 @UIApplicationMain
 @objc class AppDelegate: FlutterAppDelegate {
